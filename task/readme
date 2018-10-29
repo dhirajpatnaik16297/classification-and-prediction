@@ -1,0 +1,11 @@
+****Code for classification and prediction****
+
+There are several ways of classification and prediction like using fully connected layers, CNNs,SVMs,Random forest etc and then using certain cost functions and optimizers but i chose as per time being to use the high level APIs of tensoflow called estimators as they are easy and short. It has a DNN classifier(here DNN means deep neural network) which takes the input of features and labels and learns to predict the labels for testing too.
+
+During training it showws about 96 percent accuracy and the code takes within half a minute to train. The code does not require any comments as it is very clear by just refering to the steps. The accuracy would been different for any other approach or better if more time was provided.
+
+To run the code just type by going to the directory
+
+python3 task.py
+
+The required results are stored in output.csv
