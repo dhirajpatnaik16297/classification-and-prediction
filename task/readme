@@ -9,4 +9,6 @@ To run the code just type by going to the directory
 python3 task.py
 
 The required results are stored in output.csv
-** for the data you can unzip the data.zip in the same directory and run the code
+**Download the zipfile containing training and testing data from from this 
+https://drive.google.com/file/d/1anhOEdvXl50zPzh4VPD9FXHKqp9MRUrW/view?usp=sharing
+unzip it and copy the datas from ds_data folder to the current directory and run the code as instructed
