@@ -9,3 +9,4 @@ To run the code just type by going to the directory
 python3 task.py
 
 The required results are stored in output.csv
+** for the data you can unzip the data.zip in the same directory and run the code
